@@ -40,9 +40,9 @@ ML datasets are stored as two json files for each respective state showed as bel
 ## Contributors & Institution
 國立政治大學應用物理所 林敬軒
 
-國立政治大學應用物理所 助理教授 許琇娟
+國立政治大學應用物理所 副教授 許琇娟
 
-![plot](./RMtoolbox/PhysLogo.png)
+
 ### Contact me for any bug reports and code explanations:
 hsuanlin0519@gmail.com  or  110755003@nccu.edu.tw
 
